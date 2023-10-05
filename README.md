@@ -18,6 +18,10 @@ Your finance team will then be able to upload the data from the csv file along w
 🔄 Seamless sharing capabilities.
 
 📂 Bundles receipts and data into a zip for easy accounting integration.
+
+Receipt Master is available in the App Store now:
+
+https://apps.apple.com/gb/app/receiptmaster/id6467873283
 ## Demo
 
 ![ezgif-2-b232159592](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/bd452fb3-140c-4b64-ab93-702fbb1a51c4)
@@ -26,16 +30,15 @@ Your finance team will then be able to upload the data from the csv file along w
 
 ## Screenshots
 
-![ScreenShot 1_opaque](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/3d32fb93-cb80-4afc-8395-e9b71a8fe1e5)
+![ezgif-4-8ef84350b1](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/6c9a8217-838c-4ddb-b258-c267180a367b)
 
-![ScreenShot 2_opaque](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/b3c9f024-fbbb-4f9c-866f-8f63e493b816)
+![ezgif-4-3933d1cd0a](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/a78ba3ad-751b-46b6-9d1f-a49e857c75bd)
 
-![ScreenShot 3_opaque](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/21a5e04e-959a-4e3b-8f12-421e43e62cfb)
+![ezgif-4-4603282dd6](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/e6d1df9e-51d9-4cb9-84cd-3149369210df)
 
-![ScreenShot 4_opaque](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/4046b3ed-699d-4d0f-97bc-a4c53cb40a19)
+![ezgif-4-7fe5beaba5](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/883e4c9c-c1fd-4406-9acf-8893d7304deb)
 
-![ScreenShot 6_opaque](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/7cd52eb9-557a-449d-91b7-a173db187e72)
-
+![ezgif-4-997eefb7ca](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/09ddc05a-8c6c-4505-b5d6-bb1c1150374e)
 
 
 ## Tech Stack
