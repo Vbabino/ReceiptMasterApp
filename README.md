@@ -30,9 +30,7 @@ https://apps.apple.com/gb/app/receiptmaster/id6467873283
 
 ## Screenshots
 
-![ezgif-4-8ef84350b1](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/6c9a8217-838c-4ddb-b258-c267180a367b)
-
-![ezgif-4-3933d1cd0a](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/a78ba3ad-751b-46b6-9d1f-a49e857c75bd)
+![ezgif-4-8ef84350b1](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/6c9a8217-838c-4ddb-b258-c267180a367b) ![ezgif-4-3933d1cd0a](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/a78ba3ad-751b-46b6-9d1f-a49e857c75bd)
 
 ![ezgif-4-4603282dd6](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/e6d1df9e-51d9-4cb9-84cd-3149369210df)
 
