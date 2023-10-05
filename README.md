@@ -20,7 +20,8 @@ Your finance team will then be able to upload the data from the csv file along w
 📂 Bundles receipts and data into a zip for easy accounting integration.
 ## Demo
 
-![ezgif-4-6b983d88cc](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/481cb01e-4fd4-4a78-833c-4a52b116d15f)
+![Uploading ezgif-2-b232159592.gif…]()
+
 
 
 
