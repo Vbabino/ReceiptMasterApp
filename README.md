@@ -30,7 +30,7 @@ https://apps.apple.com/gb/app/receiptmaster/id6467873283
 
 ## Screenshots
 
-![ezgif-4-8ef84350b1](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/6c9a8217-838c-4ddb-b258-c267180a367b)  ![ezgif-4-3933d1cd0a](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/a78ba3ad-751b-46b6-9d1f-a49e857c75bd)  ![ezgif-4-4603282dd6](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/e6d1df9e-51d9-4cb9-84cd-3149369210df)  ![ezgif-4-7fe5beaba5](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/883e4c9c-c1fd-4406-9acf-8893d7304deb)  ![ezgif-4-997eefb7ca](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/09ddc05a-8c6c-4505-b5d6-bb1c1150374e)
+![ezgif-4-8ef84350b1](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/6c9a8217-838c-4ddb-b258-c267180a367b)  ![ezgif-4-3933d1cd0a](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/a78ba3ad-751b-46b6-9d1f-a49e857c75bd)  ![ezgif-4-4603282dd6](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/e6d1df9e-51d9-4cb9-84cd-3149369210df)  ![ezgif-4-7fe5beaba5](https://github.com/Vbabino/ReceiptMasterApp/assets/91137272/883e4c9c-c1fd-4406-9acf-8893d7304deb)  ![ezgif-4-997eefb7ca]
 
 
 ## Tech Stack
